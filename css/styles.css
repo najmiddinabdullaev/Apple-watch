@@ -194,6 +194,7 @@ img {
   background-image: url(../img/intro-bg.jpg);
   background-repeat: no-repeat;
   background-position: left calc(50% + 550px) bottom;
+  background-size: 587px 565px;
 }
 
 
